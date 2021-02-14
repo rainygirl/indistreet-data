@@ -80,6 +80,7 @@ event_id, musician_id, venue_id 를 참조하십시오.
 | `regular_musician`  | 자주 공연한 밴드/뮤지션    |
 | `event`             | 공연장 공연 이력        |
 
+공연장 주소는 2014년 도로명주소 도입 전 번지 주소도 일부 포함되어 있습니다.
 
 ## 공연 이력 json 데이터 구조
 
