@@ -8,7 +8,7 @@
 
 ## musician_json/*.json
 
-뮤지션/밴드 json 데이터입니다. 뮤지션/밴드의 이름, 장르, 프로필 정보, 공연 이력, 주요 유투브 주소, 발매한 앨범 정보, 음원을 공개했던 Soundcloud나 Bandcamp 주소 등이 담겨 있습니다.
+뮤지션/밴드 json 데이터입니다. 뮤지션/밴드의 이름, 장르, 프로필 정보, 공연 이력, 함께 공연한 뮤지션 순위, 주요 유투브 주소, 발매한 앨범 정보, 음원을 공개했던 Soundcloud나 Bandcamp 주소 등이 담겨 있습니다.
 
 ## venue_json/*.json
 
@@ -49,21 +49,22 @@ event_id, musician_id, venue_id 를 참조하십시오.
 
 ## 밴드/뮤지션 json 데이터 구조
 
-| key              | description         |
-| :--------------: | :-----------------: |
-| `musician_id`    | 밴드/뮤지션 UID          |
-| `name`           | 밴드/뮤지션 이름           |
-| `genre`          | 밴드/뮤지션 장르           |
-| `intro`          | 밴드/뮤지션 소개글          |
-| `intro_long`     | 밴드/뮤지션 긴 소개글        |
-| `member`         | 밴드 구성원              |
-| `twitter`        | 밴드/뮤지션 트위터 주소       |
-| `facebook`       | 밴드/뮤지션 페이스북 주소      |
-| `soundcloud_url` | 밴드/뮤지션 사운드클라우드 주소   |
-| `bandcamp_url`   | 밴드/뮤지션 밴드캠프 주소      |
-| `album`          | 밴드/뮤지션 발매 앨범        |
-| `video`          | 밴드/뮤지션 유투브 등 비디오 주소 |
-| `event`          | 밴드/뮤지션 공연 이력        |
+| key                | description         |
+| :----------------: | :-----------------: |
+| `musician_id`      | 밴드/뮤지션 UID          |
+| `name`             | 밴드/뮤지션 이름           |
+| `genre`            | 밴드/뮤지션 장르           |
+| `intro`            | 밴드/뮤지션 소개글          |
+| `intro_long`       | 밴드/뮤지션 긴 소개글        |
+| `member`           | 밴드 구성원              |
+| `twitter`          | 밴드/뮤지션 트위터 주소       |
+| `facebook`         | 밴드/뮤지션 페이스북 주소      |
+| `soundcloud_url`   | 밴드/뮤지션 사운드클라우드 주소   |
+| `bandcamp_url`     | 밴드/뮤지션 밴드캠프 주소      |
+| `album`            | 밴드/뮤지션 발매 앨범        |
+| `video`            | 밴드/뮤지션 유투브 등 비디오 주소 |
+| `event`            | 밴드/뮤지션 공연 이력        |
+| `regular_musician` | 함께 공연한 밴드/뮤지션    |
 
 ## 공연장 json 데이터 구조
 
