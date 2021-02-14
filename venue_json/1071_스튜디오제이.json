@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1071, "name": "스튜디오제이", "address": "강남구 청담동 83-15", "lat": "37.5263477475861700", "lng": "127.0415592093773200", "event": [{"venue_id": 1071, "title": "선겸 공연", "date": "2016-08-17", "time": "22:30", "venue": "스튜디오제이", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1066, "name": "김광석 다시그리기 길", "address": "대구 중구 대봉동", "lat": "35.8616784184397800", "lng": "128.6043822124148300", "event": [{"venue_id": 1066, "title": "대구 포크 페스티벌", "date": "2016-08-06", "time": "17:00", "venue": "김광석 다시그리기 길", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

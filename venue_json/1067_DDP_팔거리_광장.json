@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1067, "name": "DDP 팔거리 광장", "address": "서울특별시 중구 을지로 281", "lat": "37.5671697796204850", "lng": "127.0112240286511700", "event": [{"venue_id": 1067, "title": "Busking Play", "date": "2016-07-30", "time": "20:30", "venue": "DDP 팔거리 광장", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

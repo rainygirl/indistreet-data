@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "날벼락", "musician_id": 5910, "event_count": 1}], "venue_id": 956, "name": "레드", "address": "서울 서대문구 창천동", "lat": "37.5586862112918850", "lng": "126.9341936377409300", "event": [{"venue_id": 956, "title": "LIVE RED", "date": "2015-12-26", "price": "10,000", "time": "19:00", "venue": "레드", "lineup": [{"name": "날벼락", "musician_id": 5910}]}]}

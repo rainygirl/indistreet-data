@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1031, "name": "CGV 일산", "address": "경기도 고양시 일산동구 정발산로 24", "lat": "37.6558956887103800", "lng": "126.7720388186548200", "event": [{"venue_id": 1031, "title": "버스킹", "date": "2016-05-07", "time": "15:00", "venue": "CGV 일산", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

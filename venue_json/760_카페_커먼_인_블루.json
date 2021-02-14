@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "웨일", "musician_id": 2534, "event_count": 1}], "venue_id": 760, "name": "카페 커먼 인 블루", "address": "서울시  마포구 서교동 464-63 1F", "lat": "37.5548844487958960", "lng": "126.9176692714644200", "event": [{"venue_id": 760, "title": "웨일의 다락방", "date": "2014-11-29", "time": "19:00", "venue": "카페 커먼 인 블루", "lineup": [{"name": "웨일", "musician_id": 2534}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1024, "name": "동대문 현대시티아울렛", "address": "서울특별시 중구 을지로6가", "lat": "37.5677719920206100", "lng": "127.0066330513798800", "event": [{"venue_id": 1024, "title": "버스킹", "date": "2016-05-08", "time": "15:30", "venue": "동대문 현대시티아울렛", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

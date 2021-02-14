@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "사라플라이", "musician_id": 4127, "event_count": 1}], "venue_id": 794, "name": "카페 소리", "address": "제주특별자치도 제주시 한경면 저지리 3019-14", "lat": "33.3188665854710100", "lng": "126.2689683029251000", "event": [{"venue_id": 794, "title": "제주 카페소리", "date": "2015-02-01", "time": "14:00", "venue": "카페 소리", "lineup": [{"name": "사라플라이", "musician_id": 4127}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1068, "name": "영일대 해수욕장", "address": "경상북도 포항시 북구 두호동 685-1", "lat": "36.0572919738352000", "lng": "129.3780674913919600", "event": [{"venue_id": 1068, "title": "포항국제불빛축제", "date": "2016-07-28", "time": "19:30", "venue": "영일대 해수욕장", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

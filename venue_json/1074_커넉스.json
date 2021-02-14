@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "가로", "musician_id": 6526, "event_count": 1}], "venue_id": 1074, "name": "커넉스", "address": "서울 용산구 이태원로 145 동호프라자.외환은행", "lat": "37.5345897818055600", "lng": "126.9899077485576400", "event": [{"venue_id": 1074, "title": "가로 in Canucks", "date": "2016-08-05", "time": "22:00", "venue": "커넉스", "lineup": [{"name": "가로", "musician_id": 6526}]}]}

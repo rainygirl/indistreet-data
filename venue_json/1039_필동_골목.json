@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1039, "name": "필동 골목", "address": "서울시 중구 필동 1가 24-11", "lat": "37.5603224632179500", "lng": "126.9919053140224600", "event": [{"venue_id": 1039, "title": "필동 골목축제 예술통", "date": "2016-05-21", "time": "15:30", "venue": "필동 골목", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "서울상경음악단", "musician_id": 7058, "event_count": 1}], "venue_id": 1190, "name": "허니비클럽", "address": "경기도 수원시 팔달구 권광로187번길 38", "lat": "37.2650798872000000", "lng": "127.0307908338000000", "event": [{"venue_id": 1190, "title": "허니비클럽", "date": "2018-01-20", "time": "20:30", "venue": "허니비클럽", "lineup": [{"name": "서울상경음악단", "musician_id": 7058}]}]}

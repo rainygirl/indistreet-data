@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "낙타사막별", "musician_id": 3344, "event_count": 1}], "venue_id": 669, "name": "카페데뮤지까", "address": "서울 용산구 효창동 5-160 1층", "lat": "37.5420079876262000", "lng": "126.9609169402740700", "event": [{"venue_id": 669, "title": "낙타사막별", "date": "2014-08-23", "time": "20:00", "venue": "카페데뮤지까", "lineup": [{"name": "낙타사막별", "musician_id": 3344}]}]}

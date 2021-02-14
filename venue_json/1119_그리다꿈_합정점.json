@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1119, "name": "그리다꿈 합정점", "address": "마포구 합정동 412-27", "lat": "37.5485373104000000", "lng": "126.9169429576000000", "event": [{"venue_id": 1119, "title": "선겸 공연", "date": "2016-12-23", "time": "21:30", "venue": "그리다꿈 합정점", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

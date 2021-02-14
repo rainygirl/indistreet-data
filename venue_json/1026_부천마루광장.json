@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1026, "name": "부천마루광장", "address": "경기 부천시 소사구 부천로 1", "lat": "37.4840385508136900", "lng": "126.7826519516226400", "event": [{"venue_id": 1026, "title": "부천 마루광장 버스킹축제", "date": "2016-06-04", "time": "20:00", "venue": "부천마루광장", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

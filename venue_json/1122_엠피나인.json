@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "더바코드", "musician_id": 6746, "event_count": 1}], "venue_id": 1122, "name": "엠피나인", "address": "구로구 구로5동 520-1", "lat": "37.4997122654000000", "lng": "126.8850109344000000", "event": [{"venue_id": 1122, "title": "mp9", "date": "2016-04-22", "time": "19:00", "venue": "엠피나인", "lineup": [{"name": "더바코드", "musician_id": 6746}]}]}

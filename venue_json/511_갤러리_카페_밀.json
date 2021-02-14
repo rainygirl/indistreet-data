@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "헤일리카", "musician_id": 2907, "event_count": 1}], "venue_id": 511, "name": "갤러리 카페 밀", "address": "경기 고양시 일산동구 풍동 613번지 3층", "lat": "37.6739991829531900", "lng": "126.7920967960191000", "event": [{"venue_id": 511, "title": "토이피아노 순례공연", "date": "2013-09-28", "time": "17:00", "venue": "갤러리 카페 밀", "lineup": [{"name": "헤일리카", "musician_id": 2907}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1123, "name": "T325", "address": "서울특별시 강남구 테헤란로 325", "lat": "37.5042459847000000", "lng": "127.0467584195000000", "event": [{"venue_id": 1123, "title": "아트마켓 공연", "date": "2017-01-15", "time": "16:30", "venue": "T325", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

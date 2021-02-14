@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1022, "name": "오퍼스", "address": "인천 연수구 인권로 26", "lat": "37.4191060860789100", "lng": "126.6533970701307000", "event": [{"venue_id": 1022, "title": "선겸 정규앨범을 알리기 위한 공연", "date": "2016-05-04", "time": "17:00", "venue": "오퍼스", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "나비", "musician_id": 3324, "event_count": 1}], "venue_id": 485, "name": "한미 우호의 광장", "address": "경기도 동두천시 보산동", "lat": "37.9176348894165600", "lng": "127.0613165310537000", "event": [{"venue_id": 485, "title": "15회 동두천 락페스티벌 고등부 예선", "date": "2013-08-11", "time": "11:00", "venue": "한미 우호의 광장", "lineup": [{"name": "나비", "musician_id": 3324}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1097, "name": "대구전시컨벤션센터", "address": "대구광역시 북구 유통단지로 90", "lat": "35.9071090212000000", "lng": "128.6130836330000000", "event": [{"venue_id": 1097, "title": "대구 국제패션문화페스티벌", "date": "2016-10-03", "time": "15:00", "venue": "대구전시컨벤션센터", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

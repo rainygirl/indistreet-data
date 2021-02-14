@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "성낙원", "musician_id": 3604, "event_count": 1}], "venue_id": 730, "name": "천년동안도", "address": "서울시 종로구 동숭동 1-66번지", "lat": "37.5824943902624600", "lng": "127.0030884858168900", "event": [{"venue_id": 730, "title": "Mennal Nonet", "date": "2014-11-08", "time": "20:00", "venue": "천년동안도", "lineup": [{"name": "성낙원", "musician_id": 3604}]}]}

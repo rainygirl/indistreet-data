@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "이팩스", "musician_id": 4062, "event_count": 1}], "venue_id": 620, "name": "위락", "address": "안산시 단원구 고잔동 756-3번지", "lat": "37.3130069591916960", "lng": "126.8390262508980800", "event": [{"venue_id": 620, "title": "정기공연", "date": "2014-04-12", "time": "20:00", "venue": "위락", "lineup": [{"name": "이팩스", "musician_id": 4062}]}]}

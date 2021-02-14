@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1073, "name": "블루나이트", "address": "서울 마포구 어울마당로 37 2층", "lat": "37.5486440980739100", "lng": "126.9202381469124500", "event": [{"venue_id": 1073, "title": "할로윈 파티 공연", "date": "2016-10-28", "time": "21:00", "venue": "블루나이트", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

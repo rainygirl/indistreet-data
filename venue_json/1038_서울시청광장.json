@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1038, "name": "서울시청광장", "address": "서울특별시 중구 태평로1가 31", "lat": "37.5665844558762500", "lng": "126.9782040940332300", "event": [{"venue_id": 1038, "title": "청춘콘서트 & 청춘박람회", "date": "2016-05-21", "time": "13:30", "venue": "서울시청광장", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

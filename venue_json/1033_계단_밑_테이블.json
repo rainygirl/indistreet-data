@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1033, "name": "계단 밑 테이블", "address": "경기도 성남 동판교로52번길 25-15", "lat": "37.3851944385310500", "lng": "127.1138428694274600", "event": [{"venue_id": 1033, "title": "선겸 노마이크 공연", "date": "2016-05-13", "time": "21:00", "venue": "계단 밑 테이블", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1048, "name": "능동로 분수광장", "address": "서울특별시 광진구 능동로 120", "lat": "37.5391724891471700", "lng": "127.0747189073268700", "event": [{"venue_id": 1048, "title": "광진 아트브릿지", "date": "2016-07-02", "time": "19:30", "venue": "능동로 분수광장", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

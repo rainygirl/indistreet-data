@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "HR시간", "musician_id": 1652, "event_count": 1}], "venue_id": 640, "name": "논지당", "address": "서울 서대문구 연세로 50", "lat": "37.5638048150545400", "lng": "126.9429316209865400", "event": [{"venue_id": 640, "title": "오월의 버슥거리는 밤", "date": "2014-05-29", "time": "21:00", "venue": "논지당", "lineup": [{"name": "HR시간", "musician_id": 1652}]}]}

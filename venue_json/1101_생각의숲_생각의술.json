@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1101, "name": "생각의숲 생각의술", "address": "제주시 동광로 5", "lat": "33.5012741420000000", "lng": "126.5296981208000000", "event": [{"venue_id": 1101, "title": "선겸 공연", "date": "2016-10-21", "time": "21:00", "venue": "생각의숲 생각의술", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

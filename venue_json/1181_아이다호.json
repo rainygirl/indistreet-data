@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "큐큐", "musician_id": 7036, "event_count": 1}], "venue_id": 1181, "name": "아이다호", "address": "서울시 마포구 망원동 338-79 2층", "lat": "37.5527859000000000", "lng": "126.9066036225000000", "event": [{"venue_id": 1181, "title": "Q.Q IN 아이다호 9PM", "date": "2018-07-06", "time": "21:00", "venue": "아이다호", "lineup": [{"name": "큐큐", "musician_id": 7036}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "화분", "musician_id": 432, "event_count": 1}], "venue_id": 722, "name": "레인보우", "address": "서울특별시 서초구 서초4동 1308-11", "lat": "37.5007710895570600", "lng": "127.0250835357551000", "event": [{"venue_id": 722, "title": "화분 공연", "date": "2014-10-31", "time": "21:00", "venue": "레인보우", "lineup": [{"name": "화분", "musician_id": 432}]}]}

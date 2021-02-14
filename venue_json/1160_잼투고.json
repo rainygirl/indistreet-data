@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "허각", "musician_id": 6890, "event_count": 1}], "venue_id": 1160, "name": "잼투고", "address": "서울 강남구 강남대로 346", "lat": "37.4938538018000000", "lng": "127.0300612808000000", "event": [{"venue_id": 1160, "title": "허각버스킹", "date": "2017-05-25", "price": "Free", "time": "20:00", "venue": "잼투고", "lineup": [{"name": "허각", "musician_id": 6890}]}]}

@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "김토일", "musician_id": 2321, "event_count": 1}], "venue_id": 315, "name": "서울살롱", "address": "용산구 이태원동 305-4", "lat": "37.5388721699066540", "lng": "126.9883467260024200", "event": [{"venue_id": 315, "title": "서울라이브", "date": "2012-10-27", "price": "무료입장", "time": "21:00", "venue": "서울살롱", "lineup": [{"name": "김토일", "musician_id": 2321}]}]}

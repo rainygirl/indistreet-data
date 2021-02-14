@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "태엽", "musician_id": 6062, "event_count": 1}], "venue_id": 996, "name": "건대 미니펍", "address": "서울 광진구 동일로22길 59 2층", "lat": "37.5416995616603160", "lng": "127.0676290271365200", "event": [{"venue_id": 996, "title": "건대 minipub Rock Festival", "date": "2016-02-21", "time": "19:00", "venue": "건대 미니펍", "lineup": [{"name": "태엽", "musician_id": 6062}]}]}

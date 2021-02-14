@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "옥상달빛", "musician_id": 27, "event_count": 1}], "venue_id": 319, "name": "동대문 메가박스", "address": "서울 중구 을지로6가 21-0", "lat": "37.5657979675296700", "lng": "127.0074073903177200", "event": [{"venue_id": 319, "title": "버스킹", "date": "2012-10-26", "time": "19:30", "venue": "동대문 메가박스", "lineup": [{"name": "옥상달빛", "musician_id": 27}]}]}

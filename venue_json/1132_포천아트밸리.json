@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1132, "name": "포천아트밸리", "address": "경기도 포천시 신북면 기지리 282", "lat": "37.9234895999000000", "lng": "127.2416140352000000", "event": [{"venue_id": 1132, "title": "선겸 공연", "date": "2017-04-15", "time": "13:00", "venue": "포천아트밸리", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

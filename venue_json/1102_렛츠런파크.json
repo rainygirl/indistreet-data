@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1102, "name": "렛츠런파크", "address": "제주시 애월읍 평화로 2144", "lat": "33.4087624988000000", "lng": "126.3955531944000000", "event": [{"venue_id": 1102, "title": "제주 올레버스킹", "date": "2016-10-22", "time": "14:00", "venue": "렛츠런파크", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

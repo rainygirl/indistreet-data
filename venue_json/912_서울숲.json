@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "세인 (Seine)", "musician_id": 2895, "event_count": 1}], "venue_id": 912, "name": "서울숲", "address": "서울특별시 성동구 왕십리로11길 9", "lat": "37.5485766286177600", "lng": "127.0432282535360600", "event": [{"venue_id": 912, "title": "서울숲 뮤직파크", "date": "2015-10-17", "time": "15:00", "venue": "서울숲", "lineup": [{"name": "세인 (Seine)", "musician_id": 2895}]}]}

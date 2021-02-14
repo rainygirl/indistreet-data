@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "모노반", "musician_id": 2887, "event_count": 1}], "venue_id": 870, "name": "라보데기타", "address": "서울 중구 퇴계로 32길 8", "lat": "37.5606360524526860", "lng": "126.9925481493494900", "event": [{"venue_id": 870, "title": "모노반 언플러그드", "date": "2015-07-17", "time": "20:00", "venue": "라보데기타", "lineup": [{"name": "모노반", "musician_id": 2887}]}]}

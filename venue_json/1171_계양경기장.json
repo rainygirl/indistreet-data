@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "히미츠", "musician_id": 6231, "event_count": 1}], "venue_id": 1171, "name": "계양경기장", "address": "인천광역시 계양구 서운동 111", "lat": "37.5349531900000000", "lng": "126.7502361359000000", "event": [{"venue_id": 1171, "title": "인천인디음악페스티벌", "date": "2017-08-27", "time": "18:30", "venue": "계양경기장", "lineup": [{"name": "히미츠", "musician_id": 6231}]}]}

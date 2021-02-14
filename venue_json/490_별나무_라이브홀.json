@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "타인", "musician_id": 3165, "event_count": 1}], "venue_id": 490, "name": "별나무 라이브홀", "address": "마포구 서교동 373-6 지하", "lat": "37.5520882192890540", "lng": "126.9183423035142500", "event": [{"venue_id": 490, "title": "별나무홀 기획공연", "date": "2013-08-14", "time": "20:00", "venue": "별나무 라이브홀", "lineup": [{"name": "타인", "musician_id": 3165}]}]}

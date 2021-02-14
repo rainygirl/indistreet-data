@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 998, "name": "카페빡스", "address": "서울특별시 마포구 합정동 368-37", "lat": "37.5456569034211540", "lng": "126.9157919364748400", "event": [{"venue_id": 998, "title": "선겸 공연", "date": "2016-04-02", "time": "18:00", "venue": "카페빡스", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

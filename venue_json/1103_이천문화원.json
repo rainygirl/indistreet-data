@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "선겸", "musician_id": 6127, "event_count": 1}], "venue_id": 1103, "name": "이천문화원", "address": "경기도 이천시 영창로 163번길 19", "lat": "37.2826452717000000", "lng": "127.4405616271000000", "event": [{"venue_id": 1103, "title": "설봉설렁거리공연", "date": "2016-10-29", "time": "13:30", "venue": "이천문화원", "lineup": [{"name": "선겸", "musician_id": 6127}]}]}

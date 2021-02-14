@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "트루베르", "musician_id": 6972, "event_count": 1}], "venue_id": 1179, "name": "카페 쏭투미", "address": "서울 영등포구 양산로23길 15", "lat": "37.5252835306000000", "lng": "126.8976058012000000", "event": [{"venue_id": 1179, "title": "카페 쏭투미 오픈마이크", "date": "2017-09-22", "time": "19:00", "venue": "카페 쏭투미", "lineup": [{"name": "트루베르", "musician_id": 6972}]}]}

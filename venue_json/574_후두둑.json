@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "요조 (YOZOH) ", "musician_id": 161, "event_count": 1}], "venue_id": 574, "name": "후두둑", "address": "전라남도 순천시 석현동 131-2", "lat": "34.9702777269393100", "lng": "127.4838069833474200", "event": [{"venue_id": 574, "date": "2014-02-22", "price": "33,000", "time": "17:00", "venue": "후두둑", "lineup": [{"name": "요조 (YOZOH) ", "musician_id": 161}]}]}

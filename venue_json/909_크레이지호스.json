@@ -1,0 +1,1 @@
+{"regular_musician": [{"name": "유체리쉬밴드", "musician_id": 3828, "event_count": 1}], "venue_id": 909, "name": "크레이지호스", "address": "서울시 강남구 신사동 546-6", "lat": "37.5217505111177160", "lng": "127.0229412310682400", "event": [{"venue_id": 909, "title": "유체리쉬밴드", "date": "2015-10-07", "time": "21:00", "venue": "크레이지호스", "lineup": [{"name": "유체리쉬밴드", "musician_id": 3828}]}]}
