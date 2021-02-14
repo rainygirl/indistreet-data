@@ -5,16 +5,20 @@
 
 # 데이터 구성
 
-musician_json/*.json
+## musician_json/*.json
+
 뮤지션/밴드 json 데이터입니다. 뮤지션/밴드의 이름, 장르, 프로필 정보, 공연 이력, 함께 공연한 뮤지션 순위, 주요 유투브 주소, 발매한 앨범 정보, 음원을 공개했던 Soundcloud나 Bandcamp 주소 등이 담겨 있습니다.
 
-venue_json/*.json
+## venue_json/*.json
+
 공연장 json 데이터입니다. 공연장 이름, 주소, 위/경도, 공연 이력, 주로 공연한 뮤지션 순위 등의 데이터가 담겨 있습니다.
 
-musician.csv
+## musician.csv
+
 뮤지션/밴드 json의 인덱스 csv 입니다. musician_id, filename, event_count 값으로 구성되어 있습니다. event_count는 총 공연횟수 입니다.
 
-venue.csv
+## venue.csv
+
 공연장 json의 인덱스 csv 입니다. venue_id, filename, address, lat, lng, event_count 값으로 구성되어 있습니다.
 
 
