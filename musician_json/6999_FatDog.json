@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 40, "title": "FatDog", "date": "2017-11-05", "time": "21:00", "venue": "클럽 에반스 (EVANS)", "lineup": [{"name": "FatDog", "musician_id": 6999}]}], "regular_musician": [{"name": "FatDog", "musician_id": 6999, "event_count": 1}], "name": "FatDog", "musician_id": 6999}

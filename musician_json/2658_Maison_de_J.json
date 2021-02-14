@@ -1,0 +1,1 @@
+{"event": [{"venue_id": 39, "date": "2013-01-24", "time": "20:00", "venue": "오뙤르 (AUTEUR)", "lineup": [{"name": "Ode", "musician_id": 724}, {"name": "Maison de J", "musician_id": 2658}]}], "regular_musician": [{"name": "Maison de J", "musician_id": 2658, "event_count": 1}, {"name": "Ode", "musician_id": 724, "event_count": 1}], "name": "Maison de J", "musician_id": 2658}

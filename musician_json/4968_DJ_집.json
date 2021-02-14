@@ -1,0 +1,1 @@
+{"genre": "Electronic", "event": [{"venue_id": 222, "title": "실내흡연파티 with DJ 집", "date": "2014-12-31", "price": "무료", "time": "21:00", "venue": "제비다방", "lineup": [{"name": "DJ 집", "musician_id": 4968}]}], "regular_musician": [{"name": "DJ 집", "musician_id": 4968, "event_count": 1}], "name": "DJ 집", "musician_id": 4968}

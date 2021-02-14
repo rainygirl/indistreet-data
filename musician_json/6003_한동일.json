@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 725, "title": "한동일 Trio", "date": "2016-01-15", "price": "10,000원(음료포함)", "time": "22:00", "venue": "재즈다", "lineup": [{"name": "한동일", "musician_id": 6003}]}], "regular_musician": [{"name": "한동일", "musician_id": 6003, "event_count": 1}], "name": "한동일", "musician_id": 6003}

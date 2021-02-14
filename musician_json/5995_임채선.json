@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 725, "title": "임채선 solo", "date": "2016-01-12", "price": "10,000원(음료포함)", "time": "20:00", "venue": "재즈다", "lineup": [{"name": "임채선", "musician_id": 5995}]}], "regular_musician": [{"name": "임채선", "musician_id": 5995, "event_count": 1}], "name": "임채선", "musician_id": 5995}

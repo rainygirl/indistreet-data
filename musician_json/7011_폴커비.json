@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 40, "title": "Paul Kirby Quartet", "date": "2017-11-16", "time": "21:00", "venue": "클럽 에반스 (EVANS)", "lineup": [{"name": "폴커비", "musician_id": 7011}]}], "regular_musician": [{"name": "폴커비", "musician_id": 7011, "event_count": 1}], "name": "폴커비", "musician_id": 7011}

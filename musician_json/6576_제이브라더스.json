@@ -1,0 +1,1 @@
+{"genre": "Rock", "event": [{"venue_id": 222, "title": "제이브라더스", "date": "2016-09-23", "time": "21:00", "venue": "제비다방", "lineup": [{"name": "제이브라더스", "musician_id": 6576}]}], "regular_musician": [{"name": "제이브라더스", "musician_id": 6576, "event_count": 1}], "name": "제이브라더스", "musician_id": 6576}

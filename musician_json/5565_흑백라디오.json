@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 725, "title": "흑백라디오 - 재즈다", "date": "2015-07-27", "price": "5000", "time": "20:00", "venue": "재즈다", "lineup": [{"name": "흑백라디오", "musician_id": 5565}]}], "regular_musician": [{"name": "흑백라디오", "musician_id": 5565, "event_count": 1}], "name": "흑백라디오", "musician_id": 5565}

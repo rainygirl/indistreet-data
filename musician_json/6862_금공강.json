@@ -1,0 +1,1 @@
+{"facebook": "http://facebook.com/band.ggg", "genre": "Rock", "event": [{"venue_id": 420, "title": "제12회 소속밴드 공개오디션 자선공연", "date": "2017-04-08", "price": "10,000원(프리드링크 포함)", "time": "19:30", "venue": "라이브앤라우드", "lineup": [{"name": "금공강", "musician_id": 6862}]}], "regular_musician": [{"name": "금공강", "musician_id": 6862, "event_count": 1}], "name": "금공강", "musician_id": 6862}

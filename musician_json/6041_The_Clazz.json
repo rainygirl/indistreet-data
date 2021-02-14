@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 725, "title": "The Clazz", "date": "2016-01-20", "price": "10,000원(음료포함)", "time": "20:00", "venue": "재즈다", "lineup": [{"name": "The Clazz", "musician_id": 6041}]}], "regular_musician": [{"name": "The Clazz", "musician_id": 6041, "event_count": 1}], "name": "The Clazz", "musician_id": 6041}

@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 40, "title": "리드모스", "date": "2016-01-21", "time": "21:00", "venue": "클럽 에반스 (EVANS)", "lineup": [{"name": "리드모스", "musician_id": 6065}]}], "regular_musician": [{"name": "리드모스", "musician_id": 6065, "event_count": 1}], "name": "리드모스", "musician_id": 6065}

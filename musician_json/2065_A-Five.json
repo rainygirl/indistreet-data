@@ -1,0 +1,1 @@
+{"event": [{"venue_id": 39, "title": "일요 공연", "date": "2012-09-16", "time": "19:00", "venue": "오뙤르 (AUTEUR)", "lineup": [{"name": "청은", "musician_id": 1925}, {"name": "A-Five", "musician_id": 2065}]}], "regular_musician": [{"name": "A-Five", "musician_id": 2065, "event_count": 1}, {"name": "청은", "musician_id": 1925, "event_count": 1}], "name": "A-Five", "musician_id": 2065}

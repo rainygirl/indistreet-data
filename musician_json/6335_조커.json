@@ -1,0 +1,1 @@
+{"facebook": "http://facebook.com/musicianjoker", "genre": "Pop", "event": [{"venue_id": 963, "title": "Joker(조커) 봄맞이 라이브 공연 안내", "date": "2015-04-30", "price": "15,000원", "time": "20:00", "venue": "버디식스", "lineup": [{"name": "조커", "musician_id": 6335}]}], "regular_musician": [{"name": "조커", "musician_id": 6335, "event_count": 1}], "name": "조커", "musician_id": 6335}

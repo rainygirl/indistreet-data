@@ -1,0 +1,1 @@
+{"genre": "ModernRock", "event": [{"venue_id": 6, "title": "사람이름 공연", "date": "2015-01-22", "time": "19:00", "venue": "클럽 빵", "lineup": [{"name": "사람이름", "musician_id": 5038}]}], "regular_musician": [{"name": "사람이름", "musician_id": 5038, "event_count": 1}], "name": "사람이름", "musician_id": 5038}

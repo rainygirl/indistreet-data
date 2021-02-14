@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 725, "title": "Kim Brothers", "date": "2016-01-20", "price": "10,000원(음료포함)", "time": "22:00", "venue": "재즈다", "lineup": [{"name": "킴브라더스", "musician_id": 6042}]}], "regular_musician": [{"name": "킴브라더스", "musician_id": 6042, "event_count": 1}], "name": "킴브라더스", "musician_id": 6042}

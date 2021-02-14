@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 40, "title": "한차영 Quintet", "date": "2015-11-01", "time": "21:00", "venue": "클럽 에반스 (EVANS)", "lineup": [{"name": "한차영", "musician_id": 5776}]}], "regular_musician": [{"name": "한차영", "musician_id": 5776, "event_count": 1}], "name": "한차영", "musician_id": 5776}

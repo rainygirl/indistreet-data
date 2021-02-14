@@ -1,0 +1,1 @@
+{"event": [{"venue_id": 64, "title": "INDIFAN DATE", "date": "2012-04-11", "time": "19:30", "venue": "인디팬 (Indifan)", "lineup": [{"name": "후유", "musician_id": 515}, {"name": "머튼찹스", "musician_id": 1230}]}], "regular_musician": [{"name": "후유", "musician_id": 515, "event_count": 1}, {"name": "머튼찹스", "musician_id": 1230, "event_count": 1}], "name": "머튼찹스", "musician_id": 1230}

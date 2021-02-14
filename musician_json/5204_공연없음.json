@@ -1,0 +1,1 @@
+{"genre": "none", "event": [{"venue_id": 222, "title": "공연없음", "date": "2015-03-08", "price": "없음", "time": "20:00", "venue": "제비다방", "lineup": [{"name": "공연없음", "musician_id": 5204}]}], "regular_musician": [{"name": "공연없음", "musician_id": 5204, "event_count": 1}], "name": "공연없음", "musician_id": 5204}

@@ -1,0 +1,1 @@
+{"event": [{"venue_id": 40, "date": "2012-04-19", "time": "20:00", "venue": "클럽 에반스 (EVANS)", "lineup": [{"name": "자몽쥬스샷추가", "musician_id": 998}, {"name": "빨간머리앤", "musician_id": 1381}]}], "regular_musician": [{"name": "빨간머리앤", "musician_id": 1381, "event_count": 1}, {"name": "자몽쥬스샷추가", "musician_id": 998, "event_count": 1}], "name": "자몽쥬스샷추가", "musician_id": 998}

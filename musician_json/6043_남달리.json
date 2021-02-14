@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 725, "title": "이상한 나라에 달리스", "date": "2016-01-21", "price": "10,000원(음료포함)", "time": "18:00", "venue": "재즈다", "lineup": [{"name": "남달리", "musician_id": 6043}]}], "regular_musician": [{"name": "남달리", "musician_id": 6043, "event_count": 1}], "name": "남달리", "musician_id": 6043}

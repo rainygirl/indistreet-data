@@ -1,0 +1,1 @@
+{"event": [{"venue_id": 21, "date": "2013-02-01", "time": "19:00", "venue": "클럽 DRUG(드럭) / DGBD", "lineup": [{"name": "ECS", "musician_id": 2670}, {"name": "Pamit", "musician_id": 2671}]}], "regular_musician": [{"name": "ECS", "musician_id": 2670, "event_count": 1}, {"name": "Pamit", "musician_id": 2671, "event_count": 1}], "name": "Pamit", "musician_id": 2671}

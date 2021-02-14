@@ -1,0 +1,1 @@
+{"event": [{"venue_id": 161, "title": "에반스라운지 월요일", "date": "2015-10-19", "time": "20:00", "venue": "에반스라운지", "lineup": [{"name": "실리카겔", "musician_id": 4158}, {"name": "수퍼이고", "musician_id": 5723}]}], "regular_musician": [{"name": "수퍼이고", "musician_id": 5723, "event_count": 1}, {"name": "실리카겔", "musician_id": 4158, "event_count": 1}], "name": "수퍼이고", "musician_id": 5723}

@@ -1,0 +1,1 @@
+{"genre": "Jazz", "event": [{"venue_id": 40, "title": "chaka Band", "date": "2017-01-22", "time": "21:00", "venue": "클럽 에반스 (EVANS)", "lineup": [{"name": "샤카밴드", "musician_id": 6786}]}], "regular_musician": [{"name": "샤카밴드", "musician_id": 6786, "event_count": 1}], "name": "샤카밴드", "musician_id": 6786}

@@ -1,0 +1,1 @@
+{"genre": "Rock", "event": [{"venue_id": 222, "title": "조카들", "date": "2015-02-06", "price": "자율모금", "time": "21:00", "venue": "제비다방", "lineup": [{"name": "조카들", "musician_id": 5115}]}], "regular_musician": [{"name": "조카들", "musician_id": 5115, "event_count": 1}], "name": "조카들", "musician_id": 5115}

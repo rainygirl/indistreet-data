@@ -1,0 +1,1 @@
+{"event": [{"venue_id": 40, "date": "2012-04-03", "time": "20:00", "venue": "클럽 에반스 (EVANS)", "lineup": [{"name": "소설", "musician_id": 1314}, {"name": "나무늘보", "musician_id": 1315}]}], "regular_musician": [{"name": "소설", "musician_id": 1314, "event_count": 1}, {"name": "나무늘보", "musician_id": 1315, "event_count": 1}], "name": "나무늘보", "musician_id": 1315}

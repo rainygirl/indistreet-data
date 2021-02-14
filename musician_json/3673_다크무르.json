@@ -1,0 +1,1 @@
+{"event": [{"venue_id": 52, "date": "2013-11-23", "time": "19:00", "venue": "크랙 (CRACK)", "lineup": [{"name": "이슈타르 (Ishtar)", "musician_id": 44}, {"name": "다크무르", "musician_id": 3673}]}], "regular_musician": [{"name": "다크무르", "musician_id": 3673, "event_count": 1}, {"name": "이슈타르 (Ishtar)", "musician_id": 44, "event_count": 1}], "name": "다크무르", "musician_id": 3673}
