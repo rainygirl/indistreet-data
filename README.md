@@ -2,6 +2,7 @@
 
 2011년부터 2018년까지 운영되었던 인디스트릿의 공연/뮤지션/공연장 데이터를 [CC BY 라이센스](https://creativecommons.org/licenses/by/4.0/deed.ko) 로 공개합니다.
 
+![구 인디스트릿 스크린샷](https://newsimg.hankookilbo.com/cms/articlerelease/2014/08/01/201408011484721290_1.jpg)
 
 # 데이터 구성
 
