@@ -43,7 +43,7 @@
 
 # 데이터 무결성
 
-event_id, musician_id, venue_id 를 참조하십시오.
+musician_id, venue_id 를 참조하십시오.
 
 # 데이터 구조
 
@@ -87,7 +87,6 @@ event_id, musician_id, venue_id 를 참조하십시오.
 
 | key              | description              |
 | :--------------: | :----------------------: |
-| `event_id`       | 공연 UID                   |
 | `title`          | 공연 제목                    |
 | `venue`          | 공연장 이름                   |
 | `venue_id`       | 공연장 UID                  |
